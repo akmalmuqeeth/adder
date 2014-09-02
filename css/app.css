@@ -1,0 +1,27 @@
+.container {
+	width: 750px;
+height: 400px;
+/*background-color: white;
+border: 1px solid #c4c4c4;*/
+margin: 40px auto 0px auto;
+
+}
+.container span{
+	display: block;
+	text-align: center;
+}
+
+.container .title {
+	font-size: 50px;
+	text-align: center;
+}
+
+.container .buttons{
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#result {
+	text-align: center;
+}
